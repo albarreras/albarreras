@@ -1,7 +1,7 @@
 #  Hi, I'm Astrid Barreras  
 
  **Data-Driven Strategic Analyst | Combining Business Strategy & Analytics | SQL | Python | R | Tableau | PowerBI | Alteryx |**  
- Currently pursuing **MBA (UIUC)** + **MSBA (Zicklin)** with concentrations in Business Analytics & Digital Marketing.  
+ Currently pursuing **MBA (UIUC)** with concentrations in Business Analytics & Digital Marketing + **MSBA (Zicklin)** with a concentration in Data Analytics.  
 
 ---
 
