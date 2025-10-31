@@ -9,9 +9,9 @@
 
 | Project | Description | Tech Stack | Links |
 |----------|--------------|-------------|--------|
-|  **NYC 311 Service Requests Analytics (2019–2024)** | Analyzed 18.6M+ NYC 311 records, integrating ACS socioeconomic data & OMB budgets to model borough-level service outcomes. | R, tidycensus, mgcv, Shiny, Flexdashboard | [ Repo](https://github.com/albarreras/service_requests_analysis) • [ Dashboard](https://z6z0v1-astrid-barreras.shinyapps.io/ServiceRequestsDashboard/) |
+|  **NYC 311 Service Requests Analytics (2019–2024)** | Analyzed 18.6M+ NYC 311 records, integrating ACS socioeconomic data & OMB budgets to model borough-level service outcomes. | R, tidycensus, dplyr, mgcv, ggplot2, plotly, flexdashboard, Shiny | [ Repo](https://github.com/albarreras/service_requests_analysis) • [ Dashboard](https://z6z0v1-astrid-barreras.shinyapps.io/ServiceRequestsDashboard/) |
 |  **NYT News Analyzer** | Automated NYT Article Search API pipeline to analyze publication trends, keywords, and author activity. | Python, Pandas, Matplotlib, Seaborn, API | [ Repo](https://github.com/albarreras/nyt-news-analyzer) |
-|  **MLB Wins Prediction (Lahman Dataset)** | Built regression model predicting team wins from batting & pitching features with 96% accuracy. | R, caret, ggplot2 | [ Repo](https://github.com/albarreras/mlb-wins) |
+|  **MLB Wins Prediction (Lahman Dataset)** | Built regression model predicting team wins from batting & pitching features with 96% accuracy. |  R, Lahman, tidyverse, ggplot2, caret | [ Repo](https://github.com/albarreras/mlb-wins) |
 
 ---
 
